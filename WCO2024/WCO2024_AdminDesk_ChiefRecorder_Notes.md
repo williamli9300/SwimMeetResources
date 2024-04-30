@@ -47,7 +47,6 @@
    - While in the "Run the Meet" window, from the Menu Bar click `Web` to open the "Web Log-In/Settings" window.
    - Click "Upload Event Schedule". Wait for the pop-up that says "Event Schedule Web pages successfully uploaded." Click "OK" to close the pop-up.
    - If a different pop-up appears with an error, return to [Web Live Results Set-Up](#lrsetup) and ensure parameters are properly configured. Ensure XML generation is disabled.
-   - If all events have been seeded, click `Upload Default Result Pages.` Do not click this if the meet is not yet seeded.
    - Click the `X` at the top right to close the window and return to the "Run the Meet" screen.  
 
 **2. At the beginning of the session or after any changes to the Psych Sheet, do the following:** <a name="beforesession"></a>
