@@ -31,7 +31,7 @@
    b. Ensure that "Do Not Upload" is UNCHECKED and "Enable F12" is CHECKED.  
    c. Ensure that the "Settings" tab is configured as below:
    - "Event Sort" = "Session"
-   - "Mode" = "Passive FTP"
+   - "Mode" = "Passive FTP (best)"
    - Verify colours & checkboxes (If there are swim-offs at the meet, check "Include Swim-Offs")
   
    <div align="center">
