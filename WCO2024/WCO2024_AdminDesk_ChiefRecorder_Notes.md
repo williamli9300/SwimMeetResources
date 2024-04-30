@@ -71,3 +71,6 @@
 - Ensure that "Show 2nd Club with primary team" is checked.
 - Click `OK` to save and close the "Report Preferences" window.
 - Print Psych Sheets and/or Heat Sheets as normal.
+<div align="center">
+   <img src="../IMG_HyTek/ReportPreferences.png" width="600">
+</div>
